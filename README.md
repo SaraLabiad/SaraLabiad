@@ -14,11 +14,7 @@
 💡 **Expertise** in multi-level test automation: UI (Playwright), API (REST Assured), Performance (k6)<br/>
 📚 **Learning** advanced testing strategies, DevOps practices, and quality engineering<br/>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraLabiad&theme=radical&hide_border=false)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraLabiad&theme=radical&hide_border=false)
 
 ---
 
