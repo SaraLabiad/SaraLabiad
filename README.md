@@ -71,6 +71,31 @@
 
 ---
 
+## 🏆 Professional Certifications
+
+<div align="center">
+
+<!-- Replace BADGE_ID_HERE with your actual badge IDs from each badge's URL -->
+<!-- To get badge IDs: Go to each badge → Share → Copy the URL -->
+<!-- URL format: https://www.credly.com/badges/BADGE_ID_HERE -->
+
+<a href="https://www.credly.com/badges/YOUR_PSPO_BADGE_ID">
+  <img src="https://images.credly.com/size/220x220/images/a2790314-008a-4c3d-9553-f5e84eb359df/image.png" width="150px" alt="PSPO I" title="Professional Scrum Product Owner I"/>
+</a>
+<a href="https://www.credly.com/badges/YOUR_GOOGLE_PM_BADGE_ID">
+  <img src="https://images.credly.com/size/220x220/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="150px" alt="Google PM" title="Google Project Management Certificate"/>
+</a>
+<a href="https://www.credly.com/badges/YOUR_MS_D365_BADGE_ID">
+  <img src="https://images.credly.com/size/220x220/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150px" alt="Microsoft D365" title="Microsoft Dynamics 365 Fundamentals ERP"/>
+</a>
+
+**[→ View All Verified Badges](https://www.credly.com/users/sara-labiad)**
+
+</div>
+
+---
+
+
 
 ## 📫 Let's Connect!
 
