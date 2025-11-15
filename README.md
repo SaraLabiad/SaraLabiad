@@ -69,26 +69,6 @@
 - **Features**: Batch processing, validation, deduplication, partial-success handling
 - **Architecture**: Clean layered architecture with database integrity checks
 
----
-
----
-
----
-
-## 🏆 Professional Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/5c60252f-2dcc-413f-b51c-ef3471285bde">
-  <img src="https://images.credly.com/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Getting_Started_with_Data.png" width="150px" alt="Getting Started with Data"/>
-</a>
-<a href="https://www.credly.com/badges/75db4751-539c-4b48-8a93-cb9f065e8488">
-  <img src="https://images.credly.com/images/9e9bcbdc-ef6a-4653-92ed-5d8271d62e93/image.png" width="150px" alt="SAP S/4HANA Extensibility"/>
-</a>
-
-
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
