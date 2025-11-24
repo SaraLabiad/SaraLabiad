@@ -6,14 +6,6 @@
 
 ### Software Engineer in Test (SDET) | Test Automation Specialist
 
-</div>
-
-🧪 **QA Engineer** passionate about building comprehensive test automation frameworks<br/>
-🎓 **State Engineer** in Computer Science and Systems Management from ESITH, Morocco<br/>
-🚀 **Currently** designing CI/CD-integrated automation suites at D-Business Consulting<br/>
-💡 **Expertise** in multi-level test automation: UI (Playwright), API (REST Assured), Performance (k6)<br/>
-📚 **Learning** advanced testing strategies, DevOps practices, and quality engineering<br/>
-
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraLabiad&theme=radical&hide_border=false)
 
 ---
