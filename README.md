@@ -2,13 +2,7 @@
 
 <div align="center">
   
-# 👋 Hi, I'm Sara Labiad!
 
-### Software Engineer in Test (SDET) | Test Automation Specialist
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraLabiad&theme=radical&hide_border=false)
-
----
 
 ## 💻 Tech Stack
 
